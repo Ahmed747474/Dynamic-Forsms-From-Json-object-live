@@ -1,0 +1,16 @@
+ 
+
+ <div class="container">
+  <div class="row">
+    <div class="column">
+      <h2>The form</h2>
+      <app-dynamic-form #dynamicForm
+                        [questions]="questions"></app-dynamic-form>
+    </div>
+    <div class="column">
+      <form #form="ngForm">
+              <textarea rows="500" cols="500" name="data" id="data"  [(ngModel)]="data" (keyup)="updateForm($event)"></textarea>
+        </form>
+     </div>
+  </div> 
+</div>
