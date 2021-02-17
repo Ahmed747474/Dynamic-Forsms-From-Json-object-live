@@ -23,11 +23,5 @@ The `npm start` command builds (compiles TypeScript and copies assets) the appli
 
 Shut it down manually with `Ctrl-C`.
 
-#### npm scripts
-
-These are the most useful commands defined in `package.json`:
-
-* `npm start` - runs the TypeScript compiler, asset copier, and a server at the same time, all three in "watch mode".
- .
-
+ 
  
