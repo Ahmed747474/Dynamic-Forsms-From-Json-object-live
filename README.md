@@ -6,7 +6,7 @@
 ### Clone the repo
 
 ```shell
-https://github.com/Ahmed747474/task.git
+https://github.com/Ahmed747474/Dynamic-Forsms-From-Json-object-live.git
 cd task
 ```
 
