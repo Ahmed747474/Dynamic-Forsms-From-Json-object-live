@@ -7,7 +7,7 @@
 
 ```shell
 https://github.com/Ahmed747474/Dynamic-Forsms-From-Json-object-live.git
-cd task
+cd Dynamic-Forsms-From-Json-object-live
 ```
 
 ### Install npm packages
@@ -25,3 +25,7 @@ Shut it down manually with `Ctrl-C`.
 
  
  
+
+https://user-images.githubusercontent.com/25706277/134459767-028fd105-e421-42d2-a53a-7539990f8d2d.mp4
+
+
